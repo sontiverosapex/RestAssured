@@ -11,14 +11,14 @@
     "password": {
       "type": "string"
     },
-    "age": {
-      "type": "integer"
+    "avatar": {
+      "type": "string"
     }
   },
   "required": [
     "name",
     "email",
     "password",
-    "age"
+    "avatar"
   ]
 }
